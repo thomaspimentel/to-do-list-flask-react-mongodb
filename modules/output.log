@@ -102,3 +102,12 @@
 2020-10-12 15:23:52,618 - werkzeug - INFO -  * Debugger PIN: 645-610-366
 2020-10-12 15:23:57,350 - werkzeug - INFO - 172.24.0.1 - - [12/Oct/2020 15:23:57] "[37mPOST /users HTTP/1.1[0m" 200 -
 2020-10-12 15:26:09,634 - werkzeug - INFO - 172.24.0.1 - - [12/Oct/2020 15:26:09] "[37mGET /users HTTP/1.1[0m" 200 -
+2020-10-12 20:45:13,256 - root - INFO - running environment: development
+2020-10-12 20:45:13,274 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-10-12 20:45:13,278 - werkzeug - INFO -  * Restarting with stat
+2020-10-12 20:45:14,154 - root - INFO - running environment: development
+2020-10-12 20:45:14,166 - werkzeug - WARNING -  * Debugger is active!
+2020-10-12 20:45:14,171 - werkzeug - INFO -  * Debugger PIN: 284-529-051
+2020-10-12 20:53:47,999 - werkzeug - INFO - 172.22.0.1 - - [12/Oct/2020 20:53:47] "[37mGET / HTTP/1.1[0m" 200 -
+2020-10-12 21:09:54,701 - werkzeug - INFO -  * Detected change in '/code/modules/app/__init__.py', reloading
+2020-10-12 21:09:54,856 - werkzeug - INFO -  * Restarting with stat
